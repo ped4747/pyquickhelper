@@ -4,6 +4,7 @@
 
 @brief  defines @see cl FrameParams
 """
+# need tkinter
 import sys, os, tkinter
 
 from .function_helper       import private_adjust_parameters
